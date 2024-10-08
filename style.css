@@ -1,6 +1,4 @@
-*{
-    border: 1px solid red;
-}
+
 section {
     margin-left: calc(10px + (200 - 10)*((100vw - 320px) / (1600 - 320)));;
     margin-bottom: calc(60px + (160 - 60)*((100vw - 320px) / (1600 - 320)));
